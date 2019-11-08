@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 生成所有有效括号的组合
+ */
 public class Q_0022_GenerateParentheses {
 
     public static void main(String[] args) {
@@ -13,6 +16,11 @@ public class Q_0022_GenerateParentheses {
         System.out.print(list);
     }
 
+    /**
+     * Solution
+     * @param n 括号个数
+     * @return
+     */
     public List<String> generateParenthesis(int n) {
         List<String> list = new LinkedList<>();
         addParentheses(list, "", 0, 0, n);
