@@ -30,3 +30,10 @@ Some awesome solutions to the problems of leetcode🏃‍
 |  No  |     Title     | Level | Remarks |                         Solution(s)                          |                           Url                            |
 | :--: | :-----------: | :---: | :-----: | :----------------------------------------------------------: | :------------------------------------------------------: |
 |  2   | AddTwoNumbers |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) | [url](https://leetcode-cn.com/problems/add-two-numbers/) |
+
+#### SlidingWindow:
+
+|  No  |                   Title                    | Level |     Remarks     |                         Solution(s)                          |                             Url                              |
+| :--: | :----------------------------------------: | :---: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  3   | LongestSubstringWithoutRepeatingCharacters |   M   | To be optimized | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0003_LongestSubstringWithoutRepeatingCharacters) | [url](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |
+
