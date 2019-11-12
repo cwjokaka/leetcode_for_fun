@@ -37,3 +37,9 @@ Some awesome solutions to the problems of leetcode🏃‍
 | :--: | :----------------------------------------: | :---: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  3   | LongestSubstringWithoutRepeatingCharacters |   M   | To be optimized | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0003_LongestSubstringWithoutRepeatingCharacters) | [url](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |
 
+#### String:
+
+|  No  |            Title            | Level |               Remarks                |                         Solution(s)                          |                             Url                              |
+| :--: | :-------------------------: | :---: | :----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  5   | LongestPalindromicSubstring |   M   | It's better to use "Manacher" method | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0005_LongestPalindromicSubstring) | [url](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
+
