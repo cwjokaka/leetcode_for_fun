@@ -1,5 +1,7 @@
 # leetcode_for_fun
-Some awesome solutions to the problems of leetcode🏃‍
+~~Some awesome solutions to the problems of leetcode🏃‍~~
+
+An ordinary person solves problems in an ordinary way!😂
 
 #### **BinarySearch:**
 
@@ -39,9 +41,10 @@ Some awesome solutions to the problems of leetcode🏃‍
 
 #### String:
 
-|  No  |            Title            | Level |               Remarks                |                         Solution(s)                          |                             Url                              |
-| :--: | :-------------------------: | :---: | :----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  5   | LongestPalindromicSubstring |   M   | It's better to use "Manacher" method | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0005_LongestPalindromicSubstring.java) | [url](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
+|  No  |            Title            | Level |                           Remarks                            |                         Solution(s)                          |                             Url                              |
+| :--: | :-------------------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  5   | LongestPalindromicSubstring |   M   |             It's better to use "Manacher" method             | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0005_LongestPalindromicSubstring.java) | [url](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
+|  8   |     StringToIntegerAtoi     |   M   | Only use the method that made from multiple "if"😂.Maybe using regular expression is the best solution! | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0008_StringToIntegerAtoi.java) | [url](https://leetcode-cn.com/problems/string-to-integer-atoi/) |
 
 #### Queue:
 
