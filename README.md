@@ -17,9 +17,10 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### DoublePointer:
 
-|  No  |      Title      | Level | Remarks |                         Solution(s)                          |                            Url                            |
-| :--: | :-------------: | :---: | :-----: | :----------------------------------------------------------: | :-------------------------------------------------------: |
-|  31  | NextPermutation |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0031_NextPermutation.java) | [url](https://leetcode-cn.com/problems/next-permutation/) |
+|  No  |         Title          | Level | Remarks |                         Solution(s)                          |                             Url                              |
+| :--: | :--------------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  31  |    NextPermutation     |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0031_NextPermutation.java) |  [url](https://leetcode-cn.com/problems/next-permutation/)   |
+|  11  | ContainerWithMostWater |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0011_ContainerWithMostWater.java) | [url](https://leetcode-cn.com/problems/container-with-most-water/) |
 
 #### Hash:
 
@@ -48,7 +49,8 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### Queue:
 
-|  No  |     Title      | Level | Remarks |                         Solution(s)                          |                           Url                            |
-| :--: | :------------: | :---: | :-----: | :----------------------------------------------------------: | :------------------------------------------------------: |
-|  7   | ReverseInteger |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0007_ReverseInteger.java) | [url](https://leetcode-cn.com/problems/reverse-integer/) |
+|  No  |      Title       | Level | Remarks |                         Solution(s)                          |                            Url                             |
+| :--: | :--------------: | :---: | :-----: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+|  7   |  ReverseInteger  |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0007_ReverseInteger.java) |  [url](https://leetcode-cn.com/problems/reverse-integer/)  |
+|  9   | PalindromeNumber |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0009_PalindromeNumber.java) | [url](https://leetcode-cn.com/problems/palindrome-number/) |
 
