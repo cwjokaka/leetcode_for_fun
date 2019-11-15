@@ -17,10 +17,11 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### DoublePointer:
 
-|  No  |         Title          | Level | Remarks |                         Solution(s)                          |                             Url                              |
-| :--: | :--------------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  31  |    NextPermutation     |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0031_NextPermutation.java) |  [url](https://leetcode-cn.com/problems/next-permutation/)   |
-|  11  | ContainerWithMostWater |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0011_ContainerWithMostWater.java) | [url](https://leetcode-cn.com/problems/container-with-most-water/) |
+|  No  |         Title          | Level |             Remarks              |                         Solution(s)                          |                             Url                              |
+| :--: | :--------------------: | :---: | :------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  31  |    NextPermutation     |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0031_NextPermutation.java) |  [url](https://leetcode-cn.com/problems/next-permutation/)   |
+|  11  | ContainerWithMostWater |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0011_ContainerWithMostWater.java) | [url](https://leetcode-cn.com/problems/container-with-most-water/) |
+|  15  |        ThreeSum        |   M   | Should I call it TriplePointer?🧐 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0015_ThreeSum.java) |        [url](https://leetcode-cn.com/problems/3sum/)         |
 
 #### Hash:
 
@@ -46,6 +47,7 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-------------------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  5   | LongestPalindromicSubstring |   M   |             It's better to use "Manacher" method             | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0005_LongestPalindromicSubstring.java) | [url](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
 |  8   |     StringToIntegerAtoi     |   M   | Only use the method that made from multiple "if"😂.Maybe using regular expression is the best solution! | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0008_StringToIntegerAtoi.java) | [url](https://leetcode-cn.com/problems/string-to-integer-atoi/) |
+|  14  |  LongestCommonPrefix(LCP)   |   E   |                                                              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0014_LongestCommonPrefix.java) | [url](https://leetcode-cn.com/problems/longest-common-prefix/) |
 
 #### Queue:
 
