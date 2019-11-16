@@ -57,3 +57,9 @@ An ordinary person solves problems in an ordinary way!😂
 |  7   |  ReverseInteger  |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0007_ReverseInteger.java) |  [url](https://leetcode-cn.com/problems/reverse-integer/)  |
 |  9   | PalindromeNumber |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0009_PalindromeNumber.java) | [url](https://leetcode-cn.com/problems/palindrome-number/) |
 
+#### Stack:
+
+|  No  |      Title       | Level | Remarks |                         Solution(s)                          |                            Url                             |
+| :--: | :--------------: | :---: | :-----: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+|  20  | ValidParentheses |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0020_ValidParentheses.java) | [url](https://leetcode-cn.com/problems/valid-parentheses/) |
+
