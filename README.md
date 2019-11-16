@@ -22,6 +22,7 @@ An ordinary person solves problems in an ordinary way!😂
 |  31  |    NextPermutation     |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0031_NextPermutation.java) |  [url](https://leetcode-cn.com/problems/next-permutation/)   |
 |  11  | ContainerWithMostWater |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0011_ContainerWithMostWater.java) | [url](https://leetcode-cn.com/problems/container-with-most-water/) |
 |  15  |        ThreeSum        |   M   | Should I call it TriplePointer?🧐 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0015_ThreeSum.java) |        [url](https://leetcode-cn.com/problems/3sum/)         |
+|  16  |    ThreeSumClosest     |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0016_ThreeSumClosest.java) |    [url](https://leetcode-cn.com/problems/3sum-closest/)     |
 
 #### Hash:
 
