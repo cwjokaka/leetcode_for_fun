@@ -32,9 +32,10 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### LinkList:
 
-|  No  |     Title     | Level | Remarks |                         Solution(s)                          |                           Url                            |
-| :--: | :-----------: | :---: | :-----: | :----------------------------------------------------------: | :------------------------------------------------------: |
-|  2   | AddTwoNumbers |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) | [url](https://leetcode-cn.com/problems/add-two-numbers/) |
+|  No  |        Title        | Level |             Remarks              |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------: | :---: | :------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  2   |    AddTwoNumbers    |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) |   [url](https://leetcode-cn.com/problems/add-two-numbers/)   |
+|  21  | MergeTwoSortedLists |   E   | I use loops instead of recursion | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0021_MergeTwoSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
 
 #### SlidingWindow:
 
@@ -62,4 +63,3 @@ An ordinary person solves problems in an ordinary way!😂
 |  No  |      Title       | Level | Remarks |                         Solution(s)                          |                            Url                             |
 | :--: | :--------------: | :---: | :-----: | :----------------------------------------------------------: | :--------------------------------------------------------: |
 |  20  | ValidParentheses |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0020_ValidParentheses.java) | [url](https://leetcode-cn.com/problems/valid-parentheses/) |
-
