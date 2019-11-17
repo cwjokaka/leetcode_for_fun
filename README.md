@@ -37,7 +37,9 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-----------------: | :---: | :--------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  2   |    AddTwoNumbers    |   M   |                                                            | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) |   [url](https://leetcode-cn.com/problems/add-two-numbers/)   |
 |  21  | MergeTwoSortedLists |   E   |              I use loops instead of recursion              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0021_MergeTwoSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
-|  23  |  MergeKSortedLists  |   H   | Solutions: <br />divide and conquer ✔<br />PriorityQueue ❌ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0023_MergeKSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
+|  23  |  MergeKSortedLists  |   H   | Solutions: <br />divide and conquer ✔<br />PriorityQueue ❌ Not yet completed
+
+ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0023_MergeKSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
 
 #### SlidingWindow:
 
