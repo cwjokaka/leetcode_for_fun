@@ -21,6 +21,12 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  46  | Permutations |   M   | A copy of the official answer😂 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0046_Permutations.java) | [url](https://leetcode-cn.com/problems/permutations/) |
 
+#### DynamicProgramming:
+
+|  No  |        Title        | Level | Remarks |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  53  | MaximumSubarray |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0053_MaximumSubarray.java) | [url](https://leetcode-cn.com/problems/maximum-subarray/) |
+
 
 #### DoublePointer:
 
@@ -74,3 +80,11 @@ An ordinary person solves problems in an ordinary way!😂
 |  No  |      Title       | Level | Remarks |                         Solution(s)                          |                            Url                             |
 | :--: | :--------------: | :---: | :-----: | :----------------------------------------------------------: | :--------------------------------------------------------: |
 |  20  | ValidParentheses |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0020_ValidParentheses.java) | [url](https://leetcode-cn.com/problems/valid-parentheses/) |
+
+#### Array:
+
+|  No  |     Title      | Level |                           Remarks                            |                         Solution(s)                          |                            Url                            |
+| :--: | :------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|  54  |  SpiralMatrix  |   M   | That's fun! It reminds me of the time when I was making games | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0054_SpiralMatrix.java) |  [url](https://leetcode-cn.com/problems/spiral-matrix/)   |
+|  59  | SpiralMatrix_2 |   M   |                    Similar to the 👆 line                     | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0059_SpiralMatrix_2.java) | [url](https://leetcode-cn.com/problems/spiral-matrix-ii/) |
+
