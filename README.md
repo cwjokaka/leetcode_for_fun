@@ -15,6 +15,13 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  22  | GenerateParentheses |   M   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0022_GenerateParentheses.java) | [url](https://leetcode-cn.com/problems/generate-parentheses/) |
 
+#### Backtrack:
+
+|  No  |        Title        | Level | Remarks |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  46  | Permutations |   M   | A copy of the official answer😂 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0046_Permutations.java) | [url](https://leetcode-cn.com/problems/permutations/) |
+
+
 #### DoublePointer:
 
 |  No  |              Title              | Level |             Remarks              |                         Solution(s)                          |                             Url                              |
@@ -33,11 +40,11 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### LinkList:
 
-|  No  |        Title        | Level |                          Remarks                           |                         Solution(s)                          |                             Url                              |
-| :--: | :-----------------: | :---: | :--------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  2   |    AddTwoNumbers    |   M   |                                                            | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) |   [url](https://leetcode-cn.com/problems/add-two-numbers/)   |
-|  21  | MergeTwoSortedLists |   E   |              I use loops instead of recursion              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0021_MergeTwoSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
-|  23  |  MergeKSortedLists  |   H   | Solutions: <br />divide and conquer ✔<br />PriorityQueue ❌ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0023_MergeKSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
+|  No  |        Title        | Level |                           Remarks                            |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  2   |    AddTwoNumbers    |   M   |                                                              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0002_AddTwoNumbers.java) |   [url](https://leetcode-cn.com/problems/add-two-numbers/)   |
+|  21  | MergeTwoSortedLists |   E   |               I use loops instead of recursion               | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0021_MergeTwoSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
+|  23  |  MergeKSortedLists  |   H   | Solutions: <br />divide and conquer ✔<br />PriorityQueue ❌Not yet completed | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0023_MergeKSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
 
 #### SlidingWindow:
 
@@ -51,7 +58,8 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-------------------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  5   | LongestPalindromicSubstring |   M   |             It's better to use "Manacher" method             | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0005_LongestPalindromicSubstring.java) | [url](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
 |  8   |     StringToIntegerAtoi     |   M   | Only use the method that made from multiple "if"😂.Maybe using regular expression is the best solution! | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0008_StringToIntegerAtoi.java) | [url](https://leetcode-cn.com/problems/string-to-integer-atoi/) |
-|  14  |  LongestCommonPrefix(LCP)   |   E   |                                                              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0014_LongestCommonPrefix.java) | [url](https://leetcode-cn.com/problems/longest-common-prefix/) |
+|  14  |  LongestCommonPrefix(LCP)   |   E   |                                                              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0014_LongestCommonPrefix.java) | [url](https://leetcode-cn.com/problems/longest-common-prefix/) |
+|  43  |       MultiplyStrings       |   M   |                     Not yet completed ❌                      | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0043_MultiplyStrings.java) |  [url](https://leetcode-cn.com/problems/multiply-strings/)   |
 
 #### Queue:
 
