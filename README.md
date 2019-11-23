@@ -27,6 +27,7 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  53  | MaximumSubarray |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0053_MaximumSubarray.java) | [url](https://leetcode-cn.com/problems/maximum-subarray/) |
 | 62 | UniquePaths | M | Backtrack 👎 Run timeout<br />DP 👌 To be optimized | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0062_UniquePaths.java) | [url](https://leetcode-cn.com/problems/unique-paths/) |
+| 70 | ClimbingStairs | E |  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0070_ClimbingStairs.java) | [url](https://leetcode-cn.com/problems/climbing-stairs/) |
 
 
 #### DoublePointer:
