@@ -40,6 +40,7 @@ An ordinary person solves problems in an ordinary way!😂
 |  15  |            ThreeSum             |   M   | Should I call it TriplePointer?🧐 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0015_ThreeSum.java) |        [url](https://leetcode-cn.com/problems/3sum/)         |
 |  16  |         ThreeSumClosest         |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0016_ThreeSumClosest.java) |    [url](https://leetcode-cn.com/problems/3sum-closest/)     |
 |  26  | RemoveDuplicatesFromSortedArray |   E   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0026_RemoveDuplicatesFromSortedArray.java) | [url](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
+|  88  |        MergeSortedArray         |   E   |  A copy of the official answer😂  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0088_MergeSortedArray.java) | [url](https://leetcode-cn.com/problems/merge-sorted-array/)  |
 
 #### Hash:
 
