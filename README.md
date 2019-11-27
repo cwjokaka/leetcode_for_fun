@@ -93,3 +93,15 @@ An ordinary person solves problems in an ordinary way!😂
 |  54  |  SpiralMatrix  |   M   | That's fun! It reminds me of the time when I was making games | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0054_SpiralMatrix.java) |  [url](https://leetcode-cn.com/problems/spiral-matrix/)   |
 |  59  | SpiralMatrix_2 |   M   |                    Similar to the 👆 line                     | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0059_SpiralMatrix_2.java) | [url](https://leetcode-cn.com/problems/spiral-matrix-ii/) |
 
+#### BinaryTree:
+
+|  No  |          Title           | Level |     Remarks     |                         Solution(s)                          |                             Url                              |
+| :--: | :----------------------: | :---: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 104  | MaximumDepthOfBinaryTree |   E   | DFS✔<br />BFS ✔ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0104_MaximumDepthOfBinaryTree.java) | [url](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
+
+#### Other:
+
+|  No  |           Title           | Level |              Remarks               |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------------: | :---: | :--------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 121  | BestTimeToBuyAndSellStock |   E   | It's solved by using only one loop | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+

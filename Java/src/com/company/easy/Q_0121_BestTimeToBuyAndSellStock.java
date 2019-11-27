@@ -1,5 +1,8 @@
 package com.company.easy;
 
+/**
+ * 买卖股票的最佳时机
+ */
 public class Q_0121_BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
@@ -7,10 +10,22 @@ public class Q_0121_BestTimeToBuyAndSellStock {
         System.out.println(new Q_0121_BestTimeToBuyAndSellStock().maxProfit(prices));
     }
 
+    /**
+     * 一次遍历
+     * time: O(N)
+     * space: O(1)
+     */
     public int maxProfit(int[] prices) {
-        int max = 0;
-
-        return 0;
+        int maxProfit = 0;
+        int minPrice = Integer.MAX_VALUE;
+        for (int price : prices) {
+            if (minPrice > price) {
+                minPrice = price;
+            } else {
+                maxProfit = Math.max(maxProfit, price - minPrice);
+            }
+        }
+        return maxProfit;
     }
 
 }
