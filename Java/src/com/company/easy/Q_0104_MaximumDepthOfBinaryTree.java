@@ -23,7 +23,11 @@ public class Q_0104_MaximumDepthOfBinaryTree {
         return bfs(root);
     }
 
-    // 深度优先
+    /**
+     * 深度优先
+     * time O(N)
+     * space 最差(每个节点只有左节点)O(N) 最好(平衡二叉树) O(logN)
+     */
     public int dfs(TreeNode node) {
         if (node == null) {
             return 0;
@@ -33,7 +37,11 @@ public class Q_0104_MaximumDepthOfBinaryTree {
         return Math.max(leftDepth, rightDepth) + 1;
     }
 
-    // 广度优先(抄的)
+    /**
+     * 广度优先(抄的)
+     * time O(N)
+     * space O(N)
+     */
     public int bfs(TreeNode node) {
         Queue<Pair<TreeNode, Integer>> queue = new LinkedList<>();
         if (node != null) {
