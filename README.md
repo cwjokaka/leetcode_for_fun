@@ -98,10 +98,12 @@ An ordinary person solves problems in an ordinary way!😂
 |  No  |          Title           | Level |     Remarks     |                         Solution(s)                          |                             Url                              |
 | :--: | :----------------------: | :---: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 104  | MaximumDepthOfBinaryTree |   E   | DFS✔<br />BFS ✔ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0104_MaximumDepthOfBinaryTree.java) | [url](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
+| 124  | BinaryTreeMaximumPathSum |   H   |       DFS       | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0124_BinaryTreeMaximumPathSum.java) | [url](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |
 
 #### Other:
 
-|  No  |           Title           | Level |              Remarks               |                         Solution(s)                          |                             Url                              |
-| :--: | :-----------------------: | :---: | :--------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 121  | BestTimeToBuyAndSellStock |   E   | It's solved by using only one loop | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+|  No  |            Title            | Level |              Remarks               |                         Solution(s)                          |                             Url                              |
+| :--: | :-------------------------: | :---: | :--------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 121  |  BestTimeToBuyAndSellStock  |   E   | It's solved by using only one loop | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+| 122  | BestTimeToBuyAndSellStock_2 |   E   |                                    | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock_2.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 
