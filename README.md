@@ -48,7 +48,7 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :----: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------: |
 |  1   | TwoSum |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0001_TwoSum.java) | [url](https://leetcode-cn.com/problems/two-sum/) |
 
-#### LinkList:
+#### LinkedList:
 
 |  No  |        Title        | Level |                           Remarks                            |                         Solution(s)                          |                             Url                              |
 | :--: | :-----------------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
