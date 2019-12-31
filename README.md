@@ -41,6 +41,7 @@ An ordinary person solves problems in an ordinary way!😂
 |  16  |         ThreeSumClosest         |   M   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0016_ThreeSumClosest.java) |    [url](https://leetcode-cn.com/problems/3sum-closest/)     |
 |  26  | RemoveDuplicatesFromSortedArray |   E   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0026_RemoveDuplicatesFromSortedArray.java) | [url](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
 |  88  |        MergeSortedArray         |   E   |  A copy of the official answer😂  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0088_MergeSortedArray.java) | [url](https://leetcode-cn.com/problems/merge-sorted-array/)  |
+| 141  |         LinkedListCycle         |   E   |                                  | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0141_LinkedListCycle.java) |  [url](https://leetcode-cn.com/problems/linked-list-cycle/)  |
 
 #### Hash:
 
@@ -106,4 +107,10 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :-------------------------: | :---: | :--------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 121  |  BestTimeToBuyAndSellStock  |   E   | It's solved by using only one loop | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
 | 122  | BestTimeToBuyAndSellStock_2 |   E   |                                    | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0121_BestTimeToBuyAndSellStock_2.java) | [url](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+
+#### XOR:
+
+|  No  |    Title     | Level | Remarks |                         Solution(s)                          |                          Url                           |
+| :--: | :----------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------: |
+| 136  | SingleNumber |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0136_SingleNumber.java) | [url](https://leetcode-cn.com/problems/single-number/) |
 
