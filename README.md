@@ -45,9 +45,17 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### Hash:
 
-|  No  | Title  | Level | Remarks |                         Solution(s)                          |                       Url                        |
-| :--: | :----: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------: |
-|  1   | TwoSum |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0001_TwoSum.java) | [url](https://leetcode-cn.com/problems/two-sum/) |
+|  No  |       Title       | Level |      Remarks       |                         Solution(s)                          |                             Url                              |
+| :--: | :---------------: | :---: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |      TwoSum       |   E   |                    | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0001_TwoSum.java) |       [url](https://leetcode-cn.com/problems/two-sum/)       |
+| 142  | LinkedListCycle_2 |   M   | Set ✔<br />Floyd ❌ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0142_LinkedListCycle_2.java) | [url](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
+
+#### LinkedHashMap:
+
+|  No  |  Title   | Level |        Remarks         |                         Solution(s)                          |                        Url                         |
+| :--: | :------: | :---: | :--------------------: | :----------------------------------------------------------: | :------------------------------------------------: |
+| 146  | LRUCache |   M   | Implement of Redis LRU | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0146_LRUCache.java) | [url](https://leetcode-cn.com/problems/lru-cache/) |
+
 
 #### LinkedList:
 
