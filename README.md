@@ -98,9 +98,10 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### Stack:
 
-|  No  |      Title       | Level | Remarks |                         Solution(s)                          |                            Url                             |
-| :--: | :--------------: | :---: | :-----: | :----------------------------------------------------------: | :--------------------------------------------------------: |
-|  20  | ValidParentheses |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0020_ValidParentheses.java) | [url](https://leetcode-cn.com/problems/valid-parentheses/) |
+|  No  |      Title       | Level |     Remarks     |                         Solution(s)                          |                            Url                             |
+| :--: | :--------------: | :---: | :-------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+|  20  | ValidParentheses |   E   |                 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0020_ValidParentheses.java) | [url](https://leetcode-cn.com/problems/valid-parentheses/) |
+| 155  |     MinStack     |   E   | impl a MinStack | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0155_MinStack.java) |     [url](https://leetcode-cn.com/problems/min-stack/)     |
 
 #### Array:
 
