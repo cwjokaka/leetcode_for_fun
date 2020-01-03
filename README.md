@@ -22,6 +22,13 @@ An ordinary person solves problems in an ordinary way!😂
 |  46  | Permutations |   M   | A copy of the official answer😂 | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0046_Permutations.java) | [url](https://leetcode-cn.com/problems/permutations/) |
 | 78 | Subsets | M | NormalRecursion ✔<br />Backtrack ✔ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0078_Subsets.java) | [url](https://leetcode-cn.com/problems/subsets/) |
 
+#### DivideAndConquer :
+
+|  No  |        Title        | Level | Remarks |                         Solution(s)                          |                             Url                              |
+| :--: | :-----------------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  148  | SortList |   M   | Merge-And-Sort | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0148_SortList.java) | [url](https://leetcode-cn.com/problems/sort-list/) |
+
+
 #### DynamicProgramming:
 
 |  No  |        Title        | Level | Remarks |                         Solution(s)                          |                             Url                              |
