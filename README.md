@@ -56,6 +56,7 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :---------------: | :---: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |      TwoSum       |   E   |                    | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0001_TwoSum.java) |       [url](https://leetcode-cn.com/problems/two-sum/)       |
 | 142  | LinkedListCycle_2 |   M   | Set ✔<br />Floyd ❌ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0142_LinkedListCycle_2.java) | [url](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
+| 169  |  MajorityElement  |   E   |        Hash        | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0169_MajorityElement.java) |  [url](https://leetcode-cn.com/problems/majority-element/)   |
 
 #### LinkedHashMap:
 
