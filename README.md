@@ -74,6 +74,7 @@ An ordinary person solves problems in an ordinary way!😂
 |  23  |      MergeKSortedLists       |   H   | Solutions: <br />divide and conquer ✔<br />PriorityQueue ❌Not yet completed | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0023_MergeKSortedLists.java) | [url](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
 |  61  |          RotateList          |   M   |       Solutions:<br /> Stack ✔<br />Annular LinkList ✔       | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0061_RotateList.java) |     [url](https://leetcode-cn.com/problems/rotate-list/)     |
 | 160  | IntersectionOfTwoLinkedLists |   E   |                                                              | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0160_IntersectionOfTwoLinkedLists.java) | [url](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) |
+| 206  |      ReverseLinkedList       |   E   | Stack ✔<br />Loop ✔<br />Recursion 🤔 it's hard to figure out | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0206_ReverseLinkedList.java) | [url](https://leetcode-cn.com/problems/reverse-linked-list/) |
 
 
 #### SlidingWindow:
