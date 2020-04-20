@@ -133,3 +133,7 @@ An ordinary person solves problems in an ordinary way!😂
 | :--: | :----------: | :---: | :-----: | :----------------------------------------------------------: | :----------------------------------------------------: |
 | 136  | SingleNumber |   E   |         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0136_SingleNumber.java) | [url](https://leetcode-cn.com/problems/single-number/) |
 
+#### Graph:
+|  No  |      Title      | Level |    Remarks     |                         Solution(s)                          |                            Url                             |
+| :--: | :-------------: | :---: | :------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 200  | NumberOfIslands |   M   | BFS✔<br />DFS✔ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/medium/Q_0200_NumberOfIslands.java) | [url](https://leetcode-cn.com/problems/number-of-islands/) |
