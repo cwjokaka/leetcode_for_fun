@@ -115,10 +115,11 @@ An ordinary person solves problems in an ordinary way!😂
 
 #### BinaryTree:
 
-|  No  |          Title           | Level |     Remarks     |                         Solution(s)                          |                             Url                              |
-| :--: | :----------------------: | :---: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 104  | MaximumDepthOfBinaryTree |   E   | DFS✔<br />BFS ✔ | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0104_MaximumDepthOfBinaryTree.java) | [url](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
-| 124  | BinaryTreeMaximumPathSum |   H   |       DFS       | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0124_BinaryTreeMaximumPathSum.java) | [url](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |
+|  No  |          Title           | Level |       Remarks       |                         Solution(s)                          |                             Url                              |
+| :--: | :----------------------: | :---: | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 100  |         SameTree         |   E   | Recursive traversal | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0100_SameTree.java) |      [url](https://leetcode-cn.com/problems/same-tree/)      |
+| 104  | MaximumDepthOfBinaryTree |   E   |   DFS✔<br />BFS ✔   | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/easy/Q_0104_MaximumDepthOfBinaryTree.java) | [url](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
+| 124  | BinaryTreeMaximumPathSum |   H   |         DFS         | [Java](https://github.com/cwjokaka/leetcode_for_fun/blob/master/Java/src/com/company/hard/Q_0124_BinaryTreeMaximumPathSum.java) | [url](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |
 
 #### Other:
 
