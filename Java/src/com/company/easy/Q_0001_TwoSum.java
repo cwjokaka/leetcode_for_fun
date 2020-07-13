@@ -2,6 +2,7 @@ package com.company.easy;
 
 import java.util.HashMap;
 
+
 /**
  * 两数之和
  */
